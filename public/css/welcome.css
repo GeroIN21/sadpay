@@ -1,0 +1,123 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+html {
+    height: 100%
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    color:#000000;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 1 em;
+    line-height: 135%;
+    float: left;
+}
+
+a {
+    color:#000000 ;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color:#3BBAB5;
+}
+
+a, a:hover {
+     -webkit-transition: all.6s ease;
+    -moz-transition: all.6s ease;
+    -o-transition: all.6s ease;
+    -ms-transition: all.6s ease;
+    transition: all.6s ease;
+}
+
+.clear {
+    clear: both;
+}
+/*Стили для шапки*/
+
+header {
+width: 100%;
+float: left;
+margin-top: 70px;
+height:90px;
+background-color: #E5E5E5;
+}
+
+header #logo{
+margin-top: 30px;
+    width: 260px;
+    float: left;
+
+}
+
+header #logo a{
+    color: #33958F;
+     font-size: 2.5em;
+     font-family: Raleway, sans-serif;
+}
+
+header #icon{
+
+   width: 30px;
+    float: left;
+     margin-top: -30px;
+     margin-bottom: -40px;
+}
+
+header #menuHead{
+margin-top: 30px;
+    width: 370px;
+    float: left;
+    font-size: 1.3em;
+     margin-bottom: 7px;
+}
+
+header #reg{
+    width: 150px;
+     float: right;
+     margin-top: 30px;
+     margin-bottom: 10px;
+}
+header #auth{
+    width: 180px;
+     float: right;
+     margin-top: 30px;
+     margin-bottom: 10px;
+}
+header #block{
+    width: 1024px;
+    }
+
+/* стили для фона*/
+
+
+/*Стили для футера*/
+footer {
+     width: 100%;
+    float:left;
+    height: 120px;
+    margin-top: 450px;
+    background-color: #407DB3;
+}
+
+footer #social {
+margin-top: 45px;
+    width: 50%;
+    float:left;
+    margin-left: 45%;
+}
+
+footer #social img{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}

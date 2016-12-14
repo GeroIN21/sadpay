@@ -1,0 +1,188 @@
+.buttons:hover { background: rgba(255,255,255,.2); }
+.buttons:active { background: white; }
+
+.buttons {
+   border: 1px solid #000;
+   display: inline-block;
+   border-radius: 5px;
+}
+a.buttons-edit{
+  text-decoration: none;
+  color: black;
+}
+.menu{
+  width: 130px;
+  text-align: center;
+}
+
+
+
+/*client.blade(1)*/
+.div1{
+	width: 100px;
+	float: left;
+}
+.div2{
+	width: 70px;
+	float: left;
+	margin-left: 12px;
+	margin-top: 2px;
+}
+.buttons{
+	width: 83px;
+	float: left;
+	margin-right: 5px;
+}
+.buttons1{
+	width: 120px;
+}
+.buttons-edit{
+	text-align: center;
+}
+/*client.blade(1)*/
+
+
+
+/*fill.blade(1)*/
+.spa {
+	margin-left: 23px;
+}
+.cont-fill{
+border-radius: 7px; background: #d6d8d8; padding: 15px;
+}
+.name{
+	width: 400px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.CCV{
+	width: 150px;
+	float: left;
+	margin-left: 20px;
+}
+.exp-date{
+  float: left;
+	width: 250px;
+	margin-bottom: 20px;
+}
+
+/*fill.blade(1)*/
+
+
+
+/*home.blade(1)*/
+.fill1{
+	margin-right: 10px;
+}
+.purse1{
+	float: right;
+}
+.active{
+	overflow: scroll;
+	height: 513px;
+}
+.left-block-scrolll{
+  overflow: scroll;
+  height: 513px;
+}
+/*home.blade(1)*/
+
+
+
+/*moneyfill.blade(1)*/
+.spa1{
+	margin-left: 23px;
+}
+.cont-fill2{
+	border: dotted 3px black;
+}
+.vibor{
+	margin-top: 20px;
+	border-radius: 3px;
+	margin-left: 20px;
+}
+.sum{
+	width: 250px;
+	margin-bottom: 20px;
+}
+
+/*moneyfill.blade(1)*/
+
+
+
+/*payment.blade(1)*/
+.spa3{
+	margin-left: 23px;
+}
+.tablename{
+	width: 100%;
+	float: left;
+}
+.div3{
+	width: 70px;
+	float: left;
+	margin-left: 12px;
+	margin-top: 2px;
+}
+.div4{
+	width: 70px;
+	float: left;
+	margin-left: 12px;
+	margin-top: 2px;
+}
+
+.div5{
+	float: left;
+}
+.vibor{
+	margin-top: 20px;
+	border-radius: 3px;
+}
+.controlpay{
+	width: 250px;
+	margin-bottom: 20px;
+	margin-top: 19px;
+  border-radius: 5px;
+}
+.pay {
+  margin-left: 20px;
+}
+.sumpay{
+	width: 250px;
+  margin-left: 20px;
+}
+.radiocur{
+  width: 16px;
+  height: 16px;
+  float: left;
+}
+/*payment.blade(1)*/
+
+
+
+/*purse.blade(1)*/
+.spa4{
+	margin-left: 23px;
+}
+.cont-fill3{
+	border-radius: 7px;
+	background: #d6d8d8;
+	padding: 15px;
+}
+.currensy{
+	margin-left: 20px;
+}
+.form-control4{
+	width: 20px;
+	height: 20px;
+	float: left;
+}
+
+/*purse.blade(1)*/
+
+
+
+/*welcome.blade(1)*/
+
+/*welcome.blade(1)*/
